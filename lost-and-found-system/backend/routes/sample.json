@@ -1,0 +1,112 @@
+[
+    {
+        "description": "there is a usb drive that is sitting on a table",
+        "picture": "https://i.imgur.com/rG8nWMF.jpg",
+        "dateLost": "2023-02-10",
+        "locationFound": "Starbucks, Downtown, Chicago",
+        "status": "Unclaimed",
+        "finder": {
+            "name": "John Doe",
+            "contact": "0987654321"
+        }
+    },
+    {
+        "description": "there is a cup with a straw in it on a table",
+        "picture": "https://i.imgur.com/mTC3bzK.jpg",
+        "dateLost": "2023-03-05",
+        "locationFound": "Santa Monica Pier, California",
+        "status": "Unclaimed",
+        "finder": {
+            "name": "Emily Clark",
+            "contact": "0123456789"
+        }
+    },
+    {
+        "description": "there is a usb drive with a green button on it",
+        "picture": "https://i.imgur.com/tnCwmFc.jpg",
+        "dateLost": "2023-04-22",
+        "locationFound": "Union Station, Washington D.C.",
+        "status": "Unclaimed",
+        "finder": {
+            "name": "Anonymous",
+            "contact": "0234567891"
+        }
+    },
+    {
+        "description": "someone is holding an umbrella on a marble table",
+        "picture": "https://i.imgur.com/LBWGDJY.jpgF",
+        "dateLost": "2023-01-15",
+        "locationFound": "Central Park, New York",
+        "status": "Unclaimed",
+        "finder": {
+            "name": "Anonymous",
+            "contact": "0912345678"
+        }
+    },
+    {
+        "description": "someone is holding a bottle of orange juice on a marble table",
+        "picture": "https://i.imgur.com/0BpAw28.jpg",
+        "dateLost": "2023-05-30",
+        "locationFound": "Boston Public Library, Boston",
+        "status": "Unclaimed",
+        "finder": {
+            "name": "Sophia Turner",
+            "contact": "0345678912"
+        }
+    },
+    {
+        "description": "purple water bottle on a marble counter top with a shadow",
+        "picture": "https://i.imgur.com/gRfRRbg.jpg",
+        "dateLost": "2023-06-11",
+        "locationFound": "Griffith Observatory, Los Angeles",
+        "status": "Unclaimed",
+        "finder": {
+            "name": "David Smith",
+            "contact": "0456789123"
+        }
+    },
+    {
+        "description": "there is a brown purse sitting on a table with a glass",
+        "picture": "https://i.imgur.com/K2lqDLk.jpg",
+        "dateLost": "2023-07-19",
+        "locationFound": "Disneyland, Anaheim",
+        "status": "Unclaimed",
+        "finder": {
+            "name": "Anonymous",
+            "contact": "0567891234"
+        }
+    },
+    {
+        "description": "there is a small wallet with a yellow tag on it",
+        "picture": "https://i.imgur.com/la7jWqM.jpg",
+        "dateLost": "2023-08-03",
+        "locationFound": "Miami Beach, Florida",
+        "status": "Unclaimed",
+        "finder": {
+            "name": "Liam Johnson",
+            "contact": "0678912345"
+        }
+    },
+    {
+        "description": "there is a usb drive that is laying on a table",
+        "picture": "https://i.imgur.com/rwC9sD0.jpg",
+        "dateLost": "2023-09-21",
+        "locationFound": "Pike Place Market, Seattle",
+        "status": "Unclaimed",
+        "finder": {
+            "name": "Olivia Brown",
+            "contact": "0789123456"
+        }
+    },
+    {
+        "description": "there is a water bottle sitting on a marble counter top",
+        "picture": "https://i.imgur.com/SRI4Ibj.jpg",
+        "dateLost": "2023-10-05",
+        "locationFound": "Central Library, Austin, Texas",
+        "status": "Unclaimed",
+        "finder": {
+            "name": "Anonymous",
+            "contact": "0891234567"
+        }
+    }
+]

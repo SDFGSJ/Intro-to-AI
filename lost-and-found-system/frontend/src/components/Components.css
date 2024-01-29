@@ -1,0 +1,103 @@
+
+.search-bar{
+    width: 100%;
+}
+.search-bar-input{
+    width: 100%;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+/* item */
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+}
+
+.item{
+    background-color: #d7d7d7a8;/*#a0dce0;*/
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20px;
+    animation-name: fadeIn;
+    animation-duration: 1.0s;
+    width: 45%;
+    height: 45%;
+    word-wrap: break-word;
+    border: 3px solid black;
+}
+
+.item img{
+    /*center*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    max-width: 40%;
+    max-height: 40%;
+}
+/* item */
+
+/* add item */
+.half-transparent-background{
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.4);
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.background{
+    position: fixed;
+    background-color: rgba(255, 255, 255);
+    width: 50vw;
+    height: 50vb;
+    border-radius: 20px;
+
+    min-height: 40%;/*300px;*/
+    border: 3px solid black;
+
+    input{
+        border-radius: 5px;
+    }
+    .lost-data, .location-found, .picture, .finder, .form-control{
+        margin:2%;
+    }
+}
+
+.child-description{
+    width: 100%;
+}
+/* add item */
+
+/* Loading */
+.loading .background{
+    position: absolute;
+    font-size: 50px;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+    p{
+        margin: 3%;
+    }
+
+    button{
+        position: relative;
+        top: 10%;
+        border-radius: 3px;
+    }
+}
+
+/* Loading */
